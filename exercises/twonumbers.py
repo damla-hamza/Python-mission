@@ -1,0 +1,11 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+print("\n----- Your Calculation Results -----") 
+print(f"Sum: {num1 + num2}")
+print(f"Difference: {num1 - num2}  ")
+print(f"Product: {num1 * num2}")
+print(f"Division: {num1 / num2}")   
+print(f"Floor Division: {num1 // num2}")    
+print(f"Remainder: {num1 % num2}")
+print(f"Power: {num1 ** num2}")

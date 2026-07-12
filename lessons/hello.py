@@ -1,0 +1,8 @@
+print("=================================")
+print("     Welcome to Python!")
+print("=================================")
+print("Name: Hamza")
+print("Career Goal: Platform Engineer")
+print("Learning: Python for DevOps")
+print("=================================")
+print("🚀 My Python journey starts today!")
